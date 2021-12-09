@@ -10,3 +10,5 @@ ANOTHER ONE
 Remove it
 >>>>>>> 3bb71f5... nezinau3
 >>>>>>> 6831785... SQUASHED COMMIT
+
+ADDING NEW THIS 123
