@@ -1,1 +1,12 @@
 YUP
+NOPES
+<<<<<<< HEAD
+
+ANOTHER ONE
+=======
+<<<<<<< HEAD
+>>>>>>> 52286ba... INIT1
+=======
+Remove it
+>>>>>>> 3bb71f5... nezinau3
+>>>>>>> 6831785... SQUASHED COMMIT
