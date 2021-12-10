@@ -3,6 +3,7 @@ NOPES
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ANOTHER ONE
 =======
@@ -44,3 +45,6 @@ ae
 =======
 
 >>>>>>> 52286ba... INIT1
+=======
+
+>>>>>>> master
