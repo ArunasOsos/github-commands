@@ -2,3 +2,4 @@ New content
 Some new text
 Some new text2
 Some new text3
+Some new text4
