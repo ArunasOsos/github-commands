@@ -48,4 +48,9 @@ Gooder COmmits
 Gooder COmmits
 Gooder COmmits
 Gooder COmmits
+<<<<<<< 1
+Gooder COmmits
 PULL REQUEST 1
+=======
+Gooder COmmits
+>>>>>>> master
